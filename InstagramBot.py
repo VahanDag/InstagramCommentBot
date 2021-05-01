@@ -34,7 +34,7 @@ class Instagram():
             time.sleep(2)
         
             addComment=self.browser.find_element_by_xpath('//*[@id="react-root"]/section/main/div/div[1]/article/div[3]/section[3]/div/form/textarea')
-            addComment.send_keys("@vahandaag")
+            addComment.send_keys("Enter your comment")
             addComment.send_keys(Keys.ENTER)
             time.sleep(2)
     
