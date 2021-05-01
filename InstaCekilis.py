@@ -24,7 +24,7 @@ class Instagram():
         time.sleep(7)
         
     def GoPost(self):
-        self.browser.get("https://www.instagram.com/p/CNVTyjmo-xn/")
+        self.browser.get("https://www.instagram.com/ 'Enter the post you want to go' ")
         time.sleep(5)
         
         x=0
