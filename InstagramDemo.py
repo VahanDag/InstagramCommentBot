@@ -1,0 +1,2 @@
+username="yourUsername"
+password="yourPassword"
